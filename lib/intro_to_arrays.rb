@@ -9,5 +9,5 @@ end
 
 def first_element(@taylor_swift)
   @taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
-  my_first_element = first_element.shift
+  my_first_element = @taylor_swift.shift
 end
