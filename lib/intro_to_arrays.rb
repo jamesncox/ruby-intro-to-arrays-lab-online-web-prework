@@ -7,5 +7,7 @@ def array_with_two_elements
   @my_new_array = ["a", 1]
 end
 
+@taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
 
 def first_element
+  
