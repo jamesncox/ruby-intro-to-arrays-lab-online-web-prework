@@ -7,4 +7,4 @@ def array_with_two_elements
   @my_new_array = ["a", 1]
 end
 
-      
+def first_element
