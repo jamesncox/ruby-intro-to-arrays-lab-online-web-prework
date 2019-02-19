@@ -10,7 +10,7 @@ end
 @taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
 
 def first_element(@taylor_swift)
-  [0]
+  my_first_element[0]
 end
 
 def third_element(@taylor_swift)
