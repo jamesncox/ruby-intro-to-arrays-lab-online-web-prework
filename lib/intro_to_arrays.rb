@@ -33,4 +33,4 @@ end
 
 @programming_languages = ["Ruby", "Javascript", "Python", "C++", "Java", "Lisp", "PHP", "Clojure"]
 
-def 
+def length_of_array()
