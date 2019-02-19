@@ -31,3 +31,6 @@ def last_element_with_array_methods(last_country)
   @south_east_asia.last
 end
 
+@programming_languages = ["Ruby", "Javascript", "Python", "C++", "Java", "Lisp", "PHP", "Clojure"]
+
+def 
